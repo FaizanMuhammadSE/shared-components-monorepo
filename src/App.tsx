@@ -1,5 +1,5 @@
 function App() {
-  return <p>Components in progress...</p>;
+  return <p className='bg-pink-400 text-center'>Hello world!</p>;
 }
 
 export default App;
